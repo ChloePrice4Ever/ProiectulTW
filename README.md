@@ -5,6 +5,7 @@ Preparing your favorite food for more than 10 years!
 / Spotlight / is an application that shows the front of a restaurant, where you can observe the menu and reserve a table, additionally all the professional staff and pictures/videos of the service are shown.
 
 DEMO:
+
 ![photo1686496561](https://github.com/ChloePrice4Ever/ProiectulTW/assets/76448511/e1ec9553-c506-4d43-b438-401ab1a93f61)
 
 ![photo1686496582](https://github.com/ChloePrice4Ever/ProiectulTW/assets/76448511/ba748c24-ab32-47ca-9c3a-92b04644f3ef)
