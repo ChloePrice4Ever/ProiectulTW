@@ -28,5 +28,29 @@ DEMO:
 
 ![photo1686496856](https://github.com/ChloePrice4Ever/ProiectulTW/assets/76448511/f53830fb-e59a-451b-8c03-0f42f0b5582b)
 
+Development/Setup!!
+To start and develop the Spotlight project, follow the steps below:
+
+Prerequisites
+
+Make sure you have the latest Visual Studio version installed.
+Ensure that you have the latest .NET Framework version installed.
+Clone the project
+
+Use the Git command to clone the Spotlight project repository.
+
+
+Open the project in Visual Studio
+
+Open Visual Studio and select the "Open a project or solution" option.
+
+Wait for Visual Studio to load the solution and restore all the necessary project dependencies.
+Configure the database
+
+Check the database connection in the application configuration file.
+Make sure you have SQL Server installed and it is up to date then update the connectionString="Data Source=[YourLocalServerName];.
+Run the application
+
+Press the "Start" button in Visual Studio to build and run the AutoCar application.
 
 
