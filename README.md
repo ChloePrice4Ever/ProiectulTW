@@ -53,4 +53,7 @@ Run the application
 
 Press the "Start" button in Visual Studio to build and run the AutoCar application.
 
+Team
+The development team for the Spotlight project consists of the following students:
+-Ciumac Nichita-
 
